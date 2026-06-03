@@ -1,4 +1,4 @@
-#Fashion Resale Market Intelligence
+#Fashion Resale Market Intelligence Analysis
 SQL and Python project analyzing secondhand fashion market trends and predicting consumer demand shifts.
 
 # Live App
